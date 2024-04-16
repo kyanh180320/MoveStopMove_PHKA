@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a9ec46d4c56d8a4199c8597fd9c859d, type: 3}
+  m_Name: Knife
+  m_EditorClassIdentifier: 
+  weaponType: 1
+  name: Knife
+  modelProjectile: {fileID: -8600822068836738776, guid: 29062a90c76dfe14cb7247a948126252, type: 3}
+  weaponManager: {fileID: 646925279880663922, guid: 53245c3d549797c45b4609d256bd1b6b, type: 3}
+  icon: {fileID: 0}
+  posWeaponManager: {x: 0, y: 0, z: 0}
+  rotationWeaponManager: {x: 0, y: 0, z: 0}
+  price: 0
+  speedFly: 6
+  range: 6
+  rotateSpeed: 0

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a9ec46d4c56d8a4199c8597fd9c859d, type: 3}
+  m_Name: Axe
+  m_EditorClassIdentifier: 
+  weaponType: 0
+  name: Axe
+  modelProjectile: {fileID: 930166026223285884, guid: 96423b71d91fcb74ca76107c6dabb7cc, type: 3}
+  weaponManager: {fileID: 2782611088424190999, guid: b77804b32d3fe9d428162df997f435ea, type: 3}
+  icon: {fileID: 0}
+  posWeaponManager: {x: 0, y: 0, z: 0}
+  rotationWeaponManager: {x: 0, y: 0, z: 0}
+  price: 0
+  speedFly: 8
+  range: 8
+  rotateSpeed: 1000
